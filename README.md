@@ -1,6 +1,6 @@
 # Taskify - Task Management Webapp 
 
-This app major specifications:
+Specifications:
 
 * Create, read, update, and delete boards and tasks
 * Receive form validations when trying to create/edit boards and tasks
